@@ -1,5 +1,5 @@
 {
-  "name": "calc-bdd",
+  "name": "calc-bdd-sequelize",
   "version": "1.0.0",
   "description": "Calculatrice avec base de donnée",
   "main": "app.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yoann-martini/calc-bdd.git"
+    "url": "git+https://github.com/yoann-martini/calc-bdd-sequelize.git"
   },
   "author": "yoyo",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yoann-martini/calc-bdd/issues"
+    "url": "https://github.com/yoann-martini/calc-bdd-sequelize/issues"
   },
-  "homepage": "https://github.com/yoann-martini/calc-bdd#readme",
+  "homepage": "https://github.com/yoann-martini/calc-bdd-sequelize#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^2.7.1",
